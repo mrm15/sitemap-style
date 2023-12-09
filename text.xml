@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//localhost/sitemap/style.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <sitemap>
-        <loc>https://mohamadmirarab.ir/post-sitemap.xml</loc>
-        <lastmod>2021-04-27T22:37:48+04:30</lastmod>
-    </sitemap>
-    <sitemap>
-        <loc>https://mohamadmirarab.ir/page-sitemap.xml</loc>
-        <lastmod>2022-09-23T17:11:48+03:30</lastmod>
-    </sitemap>
-    <sitemap>
-        <loc>https://mohamadmirarab.ir/attachment-sitemap.xml</loc>
-        <lastmod>2021-04-27T22:37:09+04:30</lastmod>
-    </sitemap>
-    <sitemap>
-        <loc>https://mohamadmirarab.ir/category-sitemap.xml</loc>
-        <lastmod>2021-04-27T22:37:48+04:30</lastmod>
-    </sitemap>
-    <sitemap>
-        <loc>https://mohamadmirarab.ir/post_tag-sitemap.xml</loc>
-        <lastmod>2021-04-27T22:37:48+04:30</lastmod>
+        <loc>https://example.com/category-sitemap.xml</loc>
+        <lastmod>2023-04-27T22:37:48+04:30</lastmod>
     </sitemap>
 </sitemapindex>
